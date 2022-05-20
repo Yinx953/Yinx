@@ -1,4 +1,5 @@
 # Yinx
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yinx</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yinx953&label=Profile%20views&color=0e75b6&style=flat" alt="yinx953" /> </p>
 <img aling= "rigth" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/1200px-Computer-screen-code-glitch-animation-gif-background-free.gif?20180213040859">
